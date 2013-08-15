@@ -2,6 +2,7 @@ str = input("Enter a new string: ")
 
 count = 0
 vowels = 0
+
 a = 0
 e = 0
 i = 0
