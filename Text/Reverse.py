@@ -1,6 +1,6 @@
 str = input('Enter a string: ')
-rev = ''
 
+rev = ''
 count = len(str) - 1
 
 while count >= 0:
