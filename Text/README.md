@@ -45,7 +45,7 @@ Added Difficulty: Analyze words to see if they are compound words and then apply
 
 Reverse a String
 ----------------
-Solution: Reverse.py
+Solutions: Reverse.py, ReverseString.java
 
 Difficulty: 1
 
